@@ -29,4 +29,20 @@ Deployment & Maintenace / Release planning / Deployment Automation / Maintenance
 62% were <strong>unware that their organizations were vulnerable</strong> prior to the data breach<br>
 <br>
 52% of respondents say their organizations are at a <strong>disadvantage in responding to vulnerabilities because they use manual processes</strong><br>
-<br>
+<br><br><br>
+<strong>유형별 시큐어 코딩 기법</strong><br>
+- 입력데이터 검증<br>
+- 보안 기능 적용<br>
+- 시간 및 상태 처리<br>
+- 에러 처리<br>
+- 코드 오류<br>
+- 캡슐화<br>
+- API 오용<br>
+- ...<br><br><br><br><br>
+<strong>Reference</strong><br>
+- Secure Coding in C and C++, Robert C. Seacord<br>
+- Python 시큐어코딩 가이드, KISA<br>
+- OWASP Top 10 (https://owasp.org/www-project-top-ten/)<br>
+- SANS Top 25 Most Dangerous Software Errors (https://www.sans.org/top25/)<br>
+- CERT Secure Coding Standard (https://www.securecoding.cert.org/)<br>
+- Comon Weakness Enumeration (CEW) (https://cew.mitre.org/)<br>
